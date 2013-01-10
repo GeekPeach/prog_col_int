@@ -1,0 +1,13 @@
+critics={'Lisa': {'Lady': 2.5, 'Snake': 3.5, 'Just': 3.0, 'Superman': 3.5,
+  'You': 2.5, 'Night': 3.0},
+  'Gene': {'Lady': 3.0, 'Snake': 3.5, 'Just': 1.5, 'Superman':5.0, 
+  'You': 4.0, 'Night': 0.5},
+  'Michael': {'Lady': 2.5, 'Snake': 4.0, 'Just': 4.0, 'Superman': 3.5,
+  'you': 3.5, 'Night': 3.5},
+  'Claudia': {'Lady': 2.0, 'Snake':4.0, 'Just': 2.5, 'Superman': 4.0,
+  'You': 3.0, 'Night': 1.5},
+  'Mick': {'Lady': 3.0, 'Snake': 3.0, 'Just': 2.5, 'Superman': 3.0, 
+  'You': 4.0, 'Night':3.0},
+  'Jack': {'Lady': 4.0, 'Snake': 2.0, 'Just': 3.5, 'Superman': 4.0,
+  'You': 3.0, 'Night': 3.5},
+  'Toby': {'Snake': 4.0, 'You': 3.5, 'Superman': 4.0}} 
